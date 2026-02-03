@@ -29,7 +29,11 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="javascript logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cypress" height="35" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=azure" height="35" alt="javascript logo"  />
 </div>
 
 ###
