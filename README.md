@@ -9,6 +9,8 @@
 - 📝 Contact me by email: gabriel.bznalves@gmail.com
 
 <div>
-  <a href="https://github.com/gaBuen0">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaBuen0&show_icons=true" />
+
+![Estatísticas de gaBuen0](https://github-readme-stats.vercel.app/api?username=gaBuen0&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gaBuen0&layout=compact&theme=radical)
 </div>
