@@ -4,7 +4,7 @@
 
 - 👋 Hi, my name is Gabriel - from São Paulo, Brazil
 - 🎓 Studying Systems Analysis and Development - Universidade Santa Cecília-
-- 💻 I currently work as an intern in the area of ​​Quality Assurance at @CetSantos
+- 💻 I currently work as an intern in the area of Quality Assurance Analyst at @CetSantos
 - 👾 Studying Quality Assurance, manual testing, and automated tests.
 - 📝 Contact me by email: gabriel.bznalves@gmail.com  
 
@@ -28,6 +28,8 @@
   <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="javascript logo"  />
 </div>
 
 ###
