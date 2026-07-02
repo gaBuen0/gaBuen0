@@ -23,6 +23,10 @@
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=gherkin" height="35" alt="mysql logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
