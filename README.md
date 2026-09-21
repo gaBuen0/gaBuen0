@@ -9,10 +9,6 @@
 - 📝 Contact me by email: gabriel.bznalves@gmail.com  
 
 
-<h2 align="left">Stats</h2>
-
-###
-
 <h2 align="left">Techs</h2>
 
 ###
