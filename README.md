@@ -3,7 +3,7 @@
 # About me
 
 - 👋 Hi, my name is Gabriel - from São Paulo, Brazil
-- 🎓 Studying Systems Analysis and Development - Universidade Santa Cecília-
+- 🎓 Graduated in Systems Analysis and Development - Universidade Santa Cecília
 - 💻 I currently work as an intern in the area of Quality Assurance Analyst at @NTT DATA
 - 👾 Studying Quality Assurance, manual testing, and automated tests.
 - 📝 Contact me by email: gabriel.bznalves@gmail.com  
