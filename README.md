@@ -36,3 +36,22 @@
 
 
 
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaBuen0&show_icons=true&count_private=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaBuen0&layout=compact&theme=tokyonight)
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake animation](https://raw.githubusercontent.com/gaBuen0/gaBuen0/output/github-snake-dark.svg)
+
+</div>
