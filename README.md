@@ -10,27 +10,16 @@
 
 <h2 align="left">Techs</h2>
 
-###
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=playwright" height="35" alt="playwright logo" />
-<img width="10" />
-<img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo" />
-<img width="10" />
-<img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
-<img width="10" />
-<img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" />
-<img width="10" />
-<img src="https://skillicons.dev/icons?i=gherkin" height="35" alt="gherkin logo" />
-<img width="10" />
-<img src="https://skillicons.dev/icons?i=githubactions" height="35" alt="github actions logo" />
-<img width="10" />
-<img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" />
-<img width="10" />
-<img src="https://skillicons.dev/icons?i=kotlin" height="35" alt="kotlin logo" />
-</div>
-
-###
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Cucumber%2FGherkin-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber / Gherkin" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+</p>
 
 ## 🐍 Contribution Snake
 
