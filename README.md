@@ -13,21 +13,21 @@
 ###
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="mysql logo" />
+<img src="https://skillicons.dev/icons?i=playwright" height="35" alt="playwright logo" />
 <img width="10" />
-<img src="https://skillicons.dev/icons?i=gherkin" height="35" alt="mysql logo" />
-<img width="10" />
-<img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
-<img width="10" />
-<img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo" />
+<img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo" />
 <img width="10" />
 <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
 <img width="10" />
-<img src="https://skillicons.dev/icons?i=postman" height="35" alt="javascript logo" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" />
 <img width="10" />
-<img src="https://skillicons.dev/icons?i=cypress" height="35" alt="javascript logo" />
+<img src="https://skillicons.dev/icons?i=gherkin" height="35" alt="gherkin logo" />
 <img width="10" />
-<img src="https://skillicons.dev/icons?i=azure" height="35" alt="javascript logo" />
+<img src="https://skillicons.dev/icons?i=githubactions" height="35" alt="github actions logo" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=kotlin" height="35" alt="kotlin logo" />
 </div>
 
 ###
